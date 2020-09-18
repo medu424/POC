@@ -29,8 +29,8 @@
 
 		<dependency>
 			<groupId>com.querydsl</groupId>
-			<artifactId>querydsl-*</artifactId>
-			<version>4.1.3</version>
+			<artifactId>querydsl-jpa</artifactId>
+			<version>${querydsl.version}</version>
 		</dependency>
 				
 		<dependency>
